@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Student Score Prediction App")
+st.title("EduPredict – Student Performance Predictor")
 
 st.write("App is working!")
 
