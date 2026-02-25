@@ -8,7 +8,7 @@ import streamlit as st
 import pickle
 import numpy as np
 
-st.title("Student Score Prediction App")
+st.title("EduPredict – Student Performance Predictor")
 
 # Input field
 hours = st.number_input("Enter study hours:", min_value=0.0, max_value=24.0, step=0.5)
